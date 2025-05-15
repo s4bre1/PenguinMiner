@@ -30,7 +30,7 @@ Simula movimentação, cliques aleatórios e pressionamento da tecla `D`, permit
 
 1. **Clone o repositório**
    ```bash
-   git clone https://github.com/seu-usuario/PenguinMiner.git
+   git clone https://github.com/s4bre1/PenguinMiner.git
    cd PenguinMiner
    ```
 
